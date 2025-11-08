@@ -10,7 +10,7 @@
   <p align="center">
     The Simplest Clipboard Manager For MacOS
     <br />
-    <a href="https://github.com/problaze20/xcm"><strong>Install »</strong></a>
+    <a href="https://github.com/problaze20/xcm/releases"><strong>Install »</strong></a>
     <br />
     <br />
     <a href="https://github.com/problaze20/xcm/LICENSE">License</a>
@@ -22,7 +22,7 @@
 </div>
 
 
-[![XCM Product Screenshot](IMG/img1.0.0.png)](https://example.com)
+[![XCM Product Screenshot](IMG/img1.0.0.png)](https://github.com/problaze20/xcm/releases)
 
 
 A Electron Clipboard Manager for MacOS that sits in your menu bar and keeps track of your clipboard history.
