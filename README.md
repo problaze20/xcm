@@ -1,4 +1,4 @@
-
+<div id='top'> </div>
 <br />
 <div align="center">
   <a href="https://github.com/problaze20/xcm">
@@ -39,4 +39,4 @@ A Electron Clipboard Manager for MacOS that sits in your menu bar and keeps trac
 
 See the [open issues](https://github.com/problaze20/xcm/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#xcm">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
