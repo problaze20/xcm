@@ -26,7 +26,12 @@
 
 
 A Electron Clipboard Manager for MacOS that sits in your menu bar and keeps track of your clipboard history.
+## Key Features
 
+- Quick-access menu bar clipboard manager
+- Tracks clipboard history automatically
+- Built with Electron for cross-platform flexibility
+- Full-featured clipboard manager, though heavier than minimal tools (~300 MB)
 
 
 <!-- ROADMAP -->
