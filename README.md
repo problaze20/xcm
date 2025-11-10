@@ -24,7 +24,7 @@
 </div>
 
 
-[![XCM Product Screenshot](IMG/img1.0.0.png)](https://github.com/problaze20/xcm/releases)
+[![XCM Product Screenshot](IMG/img1.1.0.png)](https://github.com/problaze20/xcm/releases)
 
 
 A Electron Clipboard Manager for MacOS that sits in your menu bar and keeps track of your clipboard history.
