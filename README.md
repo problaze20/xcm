@@ -15,9 +15,11 @@
     <br />
     <a href="https://github.com/problaze20/xcm/LICENSE">License</a>
     &middot;
-    <a href="https://github.com/problaze20/xcm/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/problaze20/xcm/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/problaze20/xcm/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/problaze20/xcm/issues/new?labels=enhancement&template=feature_request.md">Request Feature</a>
+    &middot;
+    <a href="https://github.com/problaze20/xcm/blob/main/INSTALLATION.md">Installation</a>
   </p>
 </div>
 
@@ -39,7 +41,7 @@ A Electron Clipboard Manager for MacOS that sits in your menu bar and keeps trac
 
 - [ ] Add Support For Windows
 - [ ] Add Support For Linux
-- [ ] Switch To Tauri
+- [ ] Switch To an Lightweight Alternative
 
 
 See the [open issues](https://github.com/problaze20/xcm/issues) for a full list of proposed features (and known issues).
